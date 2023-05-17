@@ -1,13 +1,13 @@
-# GNN_homework
+# GraphSAGE-for-Node-Classificaion
 It is GNN homework
 ## 一、数据集
 三类数据集：Cora, Citeseer, Pubmed
 |Items|	Cora	|Citeseer|	Pubmed|
 |  ----  | ----  |----|----|
-|Nodes|	2708|	3327|	19717|
-|Edges	|5429|	4732|44338|
-|Features|	1433|	3703|	500|
-|Classes|	7	|6	|3|
+|#Nodes|	2708|	3327|	19717|
+|#Edges	|5429|	4732|44338|
+|#Features|	1433|	3703|	500|
+|#Classes|	7	|6	|3|
 ### 1.1 Cora数据集
 2708个节点，5429条边。标签共7个类别。数据集的特征维度是1433维。
 
