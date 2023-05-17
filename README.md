@@ -61,3 +61,11 @@ Diabetes Mellitus Type 2
 
 GraphSAGE
 
+## 三、结果
+
+|Dataset|	Cora	|Citeseer|	Pubmed|
+|  ----  | ----  |----|----|
+|Accuracy|	0.7720|	0.6050|	0.7560|
+|F1_score	|0.7701|	0.6054|0.7568|
+|AUC|	0.96|	0.87|	0.90|
+
